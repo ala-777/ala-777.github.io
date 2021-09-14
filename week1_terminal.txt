@@ -1,0 +1,16 @@
+Q1A>> mkdir .folderName
+
+Q1B>> defaults write com.apple.finder AppleShowAllFiles TRUE
+  >> Killall Finder
+
+
+////////////////
+
+Q2 >> mkdir -p {folder1/folder2/folder3}
+
+
+///////////////
+
+
+
+Q3 >> echo messag1 '\n' messag2 >> file.tex                                          
