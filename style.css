@@ -73,6 +73,9 @@ section div ul {
 }
 
 @media (min-width: 1024px) {
+      body {
+        max-width: 4%;
+    }
     nav ul {
         display: flex;
         flex-direction: row;
