@@ -13,4 +13,5 @@ Q2 >> mkdir -p {folder1/folder2/folder3}
 
 
 
-Q3 >> echo messag1 '\n' messag2 >> file.tex                                          
+Q3 >> echo -e 'messag1\nmessag2' >> file.txt                                       
+                                      
