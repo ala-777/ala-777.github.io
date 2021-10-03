@@ -1,8 +1,6 @@
 Q1A>> mkdir .folderName
 
-Q1B>> defaults write com.apple.finder AppleShowAllFiles TRUE
-  >> Killall Finder
-
+Q1B>> ls -a
 
 ////////////////
 
@@ -14,4 +12,3 @@ Q2 >> mkdir -p {folder1/folder2/folder3}
 
 
 Q3 >> echo -e 'messag1\nmessag2' >> file.txt                                       
-                                      
